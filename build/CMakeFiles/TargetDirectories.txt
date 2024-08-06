@@ -1,0 +1,2 @@
+/home/virtual/Desktop/RDK_Batman/build/CMakeFiles/rebuild_cache.dir
+/home/virtual/Desktop/RDK_Batman/build/CMakeFiles/edit_cache.dir
